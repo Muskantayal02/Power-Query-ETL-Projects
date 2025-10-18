@@ -195,7 +195,7 @@ Every sheet in the compiled workbook represents a standalone case study designed
 
 **OUTCOME**
 
-- This project demonstrates hands-on data preparation proficiency using Power Query — efficiently cleaning, merging, and automating data pipelines.
+- This project demonstrates hands-on data preparation proficiency using Power Query - efficiently cleaning, merging, and automating data pipelines.
 - It reflects analytical and technical ability to transform raw, unstructured data into structured, decision-ready outputs for analysis and reporting.
 
 
@@ -208,7 +208,7 @@ Every sheet in the compiled workbook represents a standalone case study designed
 * Add error-handling and dynamic parameterization for folders and URLs.
 &nbsp;
 
-**How to Use**
+**HOW TO USE**
 
 - Clone or download this repository.
 - Open PowerQuery_ETL_Projects.xlsx in Excel (ensure Power Query is enabled).
