@@ -40,7 +40,6 @@ Each sheet within this workbook represents a standalone project demonstrating a 
 **Outcome:** A clean employee dataset ready for payroll and demographic reporting.
 
 **Skills:** Data cleaning, type transformation, text extraction.
-
 &nbsp;
 
 **B) Web Scraping - India Population Data**  (_Sheet Name - India Population Web_)
@@ -56,13 +55,11 @@ Each sheet within this workbook represents a standalone project demonstrating a 
 &nbsp;
 
 <img width="1920" height="1080" alt="2  WebScraping_Unpivot" src="https://github.com/user-attachments/assets/d477b82f-30d8-46fd-b5df-9dcbd1aeec02" />
-
 &nbsp;
 
 **Outcome:** A long-format dataset for population trends by state and year.
 
 **Skills:** Web data extraction, unpivoting, string parsing, data validation.
-
 &nbsp;
 
 **C) Excel Files Consolidation**  (_Sheet Name - Projects Consolidation_)
@@ -82,19 +79,20 @@ Each sheet within this workbook represents a standalone project demonstrating a 
 &nbsp;
 
 **Outcome:** An automated consolidated project database that refreshes on new file addition.
-
 &nbsp;
 
 **Automation for New files**
 &nbsp;
 
 **_Initial files:_**
+
 &nbsp;
 
 <img width="1920" height="1080" alt="Screenshot (602)" src="https://github.com/user-attachments/assets/5c033584-8dc3-4c99-b506-cc3d96d53c80" />
 &nbsp;
 
 **_New File added:_**
+
 &nbsp;
 <img width="1920" height="1080" alt="Screenshot (603)" src="https://github.com/user-attachments/assets/ce741c75-917e-4da0-9d2c-f8426d8b5b2e" />
 &nbsp;
@@ -107,7 +105,6 @@ Each sheet within this workbook represents a standalone project demonstrating a 
 &nbsp;
 
 **Skills:** Folder automation, dynamic ETL, custom column formulas, refresh testing.
-
 &nbsp;
 
 **D) Students & Courses (Append and Merge)**  (_Sheet Name - Female Students_)
@@ -126,7 +123,6 @@ Each sheet within this workbook represents a standalone project demonstrating a 
 **Outcome:** Unified student-course dataset ready for analytics and academic reporting.
 
 **Skills:** Append queries, merge queries, relational data integration.
-
 &nbsp;
 
 **E) Filtering Female Students on ≥3 Courses** (_Sheet Name - Female Students_)
@@ -138,7 +134,6 @@ Each sheet within this workbook represents a standalone project demonstrating a 
 * Filtered Gender = Female
 * Applied filter for Credits ≥ 3
 * Customized load behavior (set support tables as connection-only)
-
 &nbsp;
 
 <img width="1920" height="1080" alt="5  FemaleStudents_Filter" src="https://github.com/user-attachments/assets/f9757edb-beb9-4168-bab4-1096832d7056" />
@@ -148,14 +143,12 @@ Each sheet within this workbook represents a standalone project demonstrating a 
 **Outcome:** A filtered, query-based insight table highlighting targeted academic groups.
 
 **Skills:** Query referencing, load optimization, conditional filtering.
-
 &nbsp;
 
 **DELIVERABLES**
 
 - **Excel Workbook:** `PowerQuery_ETL_Projects.xlsx` (contains all project sheets)
 - **Transformation Screenshots:** Embedded in README below each project section.
-  
 &nbsp;
 
 **KEY HIGHLIGHTS**
@@ -165,7 +158,6 @@ Each sheet within this workbook represents a standalone project demonstrating a 
 - Optimized query groups and loading behavior for performance
 - Demonstrated both **one-time cleaning* and *refresh-based automation** workflows
 - Showcases proficiency across **data preparation, transformation, and integration**
-  
 &nbsp;
 
 **TECH STACK**
@@ -183,14 +175,12 @@ Each sheet within this workbook represents a standalone project demonstrating a 
 | **Data Analysis** | Pivot Tables, Aggregation, Filtering |
 | **Documentation** | Excel Comments, Step Annotations |
 | **Conceptual Understanding** | SQL Joins (theory), Data Integrity Checks |
-
 &nbsp;
 
 **OUTCOME**
 
 - This project demonstrates real-world data handling proficiency using Power Query - from cleaning and merging messy datasets to automating reporting pipelines.
 - It reflects hands-on ability to transform raw data into structured, analysis-ready outputs efficiently.
-  
 &nbsp;
 
 **FUTURE ENHANCEMENTS**
@@ -198,7 +188,6 @@ Each sheet within this workbook represents a standalone project demonstrating a 
 * Link outputs to Power BI dashboards for visualization.
 * Integrate data refresh automation with OneDrive or Power Automate.
 * Add error-handling and dynamic parameterization for folders and URLs.
-  
 &nbsp;
 
 **REPOSITORY STRUCTURE**
