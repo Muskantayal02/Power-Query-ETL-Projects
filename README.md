@@ -47,11 +47,11 @@ Each sheet within this workbook represents a standalone project demonstrating a 
 **Goal:** Transform a messy web dataset into a structured table.
 
 **Steps:**
-Connected to HTML table via Get Data → From Web.
-Removed unnecessary rows and columns, promoted headers
-Unpivoted year columns to normalize the data and reshape into tidy format.
-Extracted year values using Text Between Delimiters.
-Cleaned NA values, removed errors, and ensured standardized column types
+* Connected to HTML table via Get Data → From Web.
+* Removed unnecessary rows and columns, promoted headers
+* Unpivoted year columns to normalize the data and reshape into tidy format.
+* Extracted year values using Text Between Delimiters.
+* Cleaned NA values, removed errors, and ensured standardized column types
 
 &nbsp;
 
@@ -119,7 +119,6 @@ Cleaned NA values, removed errors, and ensured standardized column types
 * Appended both tables to create a single student dataset
 * Merged with Course table (teacher, credits, assessment type) on Course field using Left Outer Join.
 * Expanded course details (teacher, credits, assessment type).
-
   &nbsp;
 <img width="1920" height="1080" alt="4  StudentCourse_Append_Merge" src="https://github.com/user-attachments/assets/c9c413fd-18de-4878-928b-b6e260318249" />
 
