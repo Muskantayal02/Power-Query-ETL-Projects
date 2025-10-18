@@ -1,7 +1,4 @@
-A collection of end-to-end data transformation projects using Microsoft Power Query for Excel
-
 **PROJECT OVERVIEW:**
-
 This repository showcases multiple **ETL (Extract, Transform, Load)** projects built using **Power Query**. Each project demonstrates how real-world data challenges — from messy Excel sheets to combining datasets across files — can be solved through systematic data cleaning, transformation, and automation techniques.
 
 All project outputs are consolidated in one Excel workbook:
@@ -104,7 +101,7 @@ PowerQuery_Project/
 
 **Skills:** Append queries, merge queries, relational data integration.
 
-**E)Filtering Female Students on ≥3 Courses**
+**E) Filtering Female Students on ≥3 Courses**
 
 **Goal:** Identify and analyze high-performing female students across multiple courses.
 
@@ -119,22 +116,18 @@ PowerQuery_Project/
 **Skills:** Query referencing, load optimization, conditional filtering.
 
 **DELIVERABLES**
-
 * **Excel Workbook:** `PowerQuery_ETL_Projects.xlsx` (contains all project sheets)
 * **Raw Files Folder:** Source files for reproducibility
 * **Screenshots Folder:** Key snapshots showing Power Query Applied Steps and final outputs
-
 
 **KEY HIGHLIGHTS**
 - Combined **5 distinct Power Query projects** demonstrating versatile ETL capabilities
 - Used **Append**, **Merge**, **Unpivot**, **Custom Columns**, **Replace Values**, and **Connection-only Queries**
 - Optimized query groups and loading behavior for performance
-- Demonstrated both *one-time cleaning* and *refresh-based automation* workflows
+- Demonstrated both **one-time cleaning* and *refresh-based automation** workflows
 - Showcases proficiency across **data preparation, transformation, and integration**
 
-
 **TECH STACK**
-
 | Tool                               | Purpose                                         |
 | ---------------------------------- | ----------------------------------------------- |
 | **Microsoft Excel (Power Query)**  | Data extraction, transformation, and automation |
@@ -142,12 +135,10 @@ PowerQuery_Project/
 | **GitHub**                         | Documentation and version control               |
 
 **OUTCOME**
-
 - This project demonstrates real-world data handling proficiency using Power Query - from cleaning and merging messy datasets to automating reporting pipelines.
 - It reflects hands-on ability to transform raw data into structured, analysis-ready outputs efficiently.
 
 **FUTURE ENHANCEMENTS**
-
 * Link outputs to Power BI dashboards for visualization.
 * Integrate data refresh automation with OneDrive or Power Automate.
 * Add error-handling and dynamic parameterization for folders and URLs.
