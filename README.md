@@ -33,6 +33,8 @@ Each sheet within this workbook represents a standalone project demonstrating a 
 * Standardized departments and filtered out ex-employees
 * Transformed data types (date, currency, text)
 
+![Applied Steps – Employee Data](1.EmployeeData_AppliedSteps.png)
+
 **Outcome:** A clean employee dataset ready for payroll and demographic reporting.
 
 **Skills:** Data cleaning, type transformation, text extraction.
