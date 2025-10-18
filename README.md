@@ -66,7 +66,7 @@ Each sheet within this workbook represents a standalone project demonstrating a 
 **Steps:**
 * Imported all `.xlsx` files from a folder using *From Folder* connector
 * Transformed sample file, standardized project names (removed `.xlsx`)
-* Added a custom column to convert month numbers into date values
+* Added a custom column to convert month numbers into date values using a formula =#date(2025, [Month],1)
 * Filtered to include only Excel files, changed types, and loaded final dataset
 * Tested automation by adding a new file and refreshing queries successfully
 
@@ -76,15 +76,16 @@ Each sheet within this workbook represents a standalone project demonstrating a 
 **Outcome:** An automated consolidated project database that refreshes on new file addition.
 
 **Automation for New files**
-_Initial files:_
+
+**_Initial files:_**
 
 <img width="1920" height="1080" alt="Screenshot (602)" src="https://github.com/user-attachments/assets/5c033584-8dc3-4c99-b506-cc3d96d53c80" />
 
-_New File added:_
+**_New File added:_**
 
 <img width="1920" height="1080" alt="Screenshot (603)" src="https://github.com/user-attachments/assets/ce741c75-917e-4da0-9d2c-f8426d8b5b2e" />
 
-_Refreshed Output:_
+**_Refreshed Output(Automated):_**
 
 <img width="1920" height="1080" alt="Screenshot (606)" src="https://github.com/user-attachments/assets/473ea624-e48b-4224-9702-b35cc6e162db" />
 
@@ -99,8 +100,8 @@ _Refreshed Output:_
 **Steps:**
 * Imported Class 11 and 12 sheets and added custom “Year” columns
 * Appended both tables to create a single student dataset
-* Merged the combined dataset with the Course table (teacher, credits, assessment type)
-
+* Merged the combined dataset with the Course table (teacher, credits, assessment type) using Left outer Join.
+  
 <img width="1920" height="1080" alt="4  StudentCourse_Append_Merge" src="https://github.com/user-attachments/assets/c9c413fd-18de-4878-928b-b6e260318249" />
 
 
@@ -145,6 +146,16 @@ _Refreshed Output:_
 | ---------------------------------- | ----------------------------------------------- |
 | **Microsoft Excel (Power Query)**  | Data extraction, transformation, and automation |
 
+| Category | Tools / Skills |
+|-----------|----------------|
+| **Data Extraction & Cleaning** | Excel Power Query, ETL Techniques |
+| **Data Modeling** | Power Pivot, Data Relationships |
+| **Transformation Logic** | Merge Queries, Append Queries, Conditional Columns |
+| **Automation & Formulas** | Dynamic Ranges, Named Tables |
+| **Data Analysis** | Pivot Tables, Aggregation, Filtering |
+| **Documentation** | Excel Comments, Step Annotations |
+| **Conceptual Understanding** | SQL Joins (theory), Data Integrity Checks |
+
 
 **OUTCOME**
 
@@ -183,4 +194,4 @@ PowerQuery_Project/
 └── README.md
 ```
 
-_Designed and documented by [Muskan Tayal](https://www.linkedin.com/in/muskan-tayal-820145225)_
+**_Designed and documented by [Muskan Tayal](https://www.linkedin.com/in/muskan-tayal-820145225)_**
