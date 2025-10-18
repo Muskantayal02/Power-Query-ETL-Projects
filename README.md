@@ -22,7 +22,7 @@ Each sheet within this workbook represents a standalone project demonstrating a 
 
 **PROJECT SUMMARIES**
 
-**A) Employee Data Cleanup:** (_Sheet Name_ - Employee Data Cleaning)
+**A) Employee Data Cleanup:** (_Sheet Name - Employee Data Cleaning_)
 
 **Goal:** Clean and prepare HR dataset for reporting.
 
@@ -37,7 +37,7 @@ Each sheet within this workbook represents a standalone project demonstrating a 
 
 **Skills:** Data cleaning, type transformation, text extraction.
 
-**B) Web Scraping - India Population Data**
+**B) Web Scraping - India Population Data**  (_Sheet Name - India Population Web_)
 
 **Goal:** Transform a messy web dataset into a structured table.
 
@@ -52,7 +52,7 @@ Each sheet within this workbook represents a standalone project demonstrating a 
 
 **Skills:** Web data extraction, unpivoting, string parsing, data validation.
 
-**C) Excel Files Consolidation**
+**C) Excel Files Consolidation**  (_Sheet Name - Projects Consolidation_)
 
 **Goal:** Combine monthly project data from multiple Excel files into one master table.
 
@@ -67,7 +67,7 @@ Each sheet within this workbook represents a standalone project demonstrating a 
 
 **Skills:** Folder automation, dynamic ETL, custom column formulas, refresh testing.
 
-**D) Students & Courses (Append and Merge)**
+**D) Students & Courses (Append and Merge)**  (_Sheet Name - Female Students_)
 
 **Goal:** Combine data from multiple classes and enrich it with course-level details.
 
@@ -80,7 +80,7 @@ Each sheet within this workbook represents a standalone project demonstrating a 
 
 **Skills:** Append queries, merge queries, relational data integration.
 
-**E) Filtering Female Students on ≥3 Courses**
+**E) Filtering Female Students on ≥3 Courses** (_Sheet Name - Female Students_)
 
 **Goal:** Identify and analyze high-performing female students across multiple courses.
 
