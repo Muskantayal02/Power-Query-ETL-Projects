@@ -37,6 +37,7 @@ Each sheet within this workbook represents a standalone project demonstrating a 
 
 **Skills:** Data cleaning, type transformation, text extraction.
 
+
 **B) Web Scraping - India Population Data**  (_Sheet Name - India Population Web_)
 
 **Goal:** Transform a messy web dataset into a structured table.
@@ -51,6 +52,7 @@ Each sheet within this workbook represents a standalone project demonstrating a 
 **Outcome:** A long-format dataset for population trends by state and year.
 
 **Skills:** Web data extraction, unpivoting, string parsing, data validation.
+
 
 **C) Excel Files Consolidation**  (_Sheet Name - Projects Consolidation_)
 
@@ -67,6 +69,7 @@ Each sheet within this workbook represents a standalone project demonstrating a 
 
 **Skills:** Folder automation, dynamic ETL, custom column formulas, refresh testing.
 
+
 **D) Students & Courses (Append and Merge)**  (_Sheet Name - Female Students_)
 
 **Goal:** Combine data from multiple classes and enrich it with course-level details.
@@ -79,6 +82,7 @@ Each sheet within this workbook represents a standalone project demonstrating a 
 **Outcome:** Unified student-course dataset ready for analytics and academic reporting.
 
 **Skills:** Append queries, merge queries, relational data integration.
+
 
 **E) Filtering Female Students on ≥3 Courses** (_Sheet Name - Female Students_)
 
@@ -130,16 +134,17 @@ Each sheet within this workbook represents a standalone project demonstrating a 
 ```
 PowerQuery_Project/
 │
-├── PowerQuery_ETL_Projects.xlsx         # Consolidated workbook with all project outputs
+├── PowerQuery_ETL_Projects.xlsx         Final Consolidated workbook with all project outputs
 │
 ├── Raw_Files/
-│   ├── Employee_Data_Raw.xlsx
-│   ├── Students_and_Courses.xlsx
+│   ├── M01.xlsx Employee_Data_Raw
+│   ├── students and courses.xlsx
 │   ├── Consolidation_Files/
-│   │   ├── Project_Alpha.xlsx
-│   │   ├── Project_Beta.xlsx
-│   │   ├── Project_Gamma.xlsx
-│   │   └── Project_New.xlsx
+│   │   ├── Project-alpha.xlsx
+│   │   ├── Project-Beta.xlsx
+│   │   ├── Project-something.xlsx
+│   │   ├── Project-something-else.xlsx
+│   │   └── Project-New.xlsx
 │
 ├── Screenshots/
 │   ├── EmployeeData_AppliedSteps.png
