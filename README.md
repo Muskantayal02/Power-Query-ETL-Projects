@@ -147,11 +147,11 @@ PowerQuery_Project/
 │   │   └── Project-new.xlsx
 │
 ├── Screenshots/
-│   ├── EmployeeData_AppliedSteps.png
-│   ├── WebScraping_Unpivot.png
-│   ├── FolderConsolidation_Transform.png
-│   ├── StudentCourse_Append_Merge.png
-│   └── FemaleStudents_Filter.png
+│   ├── 1. EmployeeData_AppliedSteps.png
+│   ├── 2. WebScraping_Unpivot.png
+│   ├── 3. FolderConsolidation_Transform.png
+│   ├── 4. StudentCourse_Append_Merge.png
+│   └── 5. FemaleStudents_Filter.png
 │
 └── README.md
 ```
