@@ -59,7 +59,7 @@ PowerQuery_Project/
 
 **Skills:** Data cleaning, type transformation, text extraction.
 
-**B) Web Scraping – India Population Data**
+**B) Web Scraping - India Population Data**
 
 **Goal:** Transform a messy web dataset into a structured table.
 
