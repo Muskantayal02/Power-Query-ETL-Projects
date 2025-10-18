@@ -40,6 +40,7 @@ Each sheet within this workbook represents a standalone project demonstrating a 
 **Outcome:** A clean employee dataset ready for payroll and demographic reporting.
 
 **Skills:** Data cleaning, type transformation, text extraction.
+
 &nbsp;
 
 **B) Web Scraping - India Population Data**  (_Sheet Name - India Population Web_)
@@ -60,6 +61,7 @@ Each sheet within this workbook represents a standalone project demonstrating a 
 **Outcome:** A long-format dataset for population trends by state and year.
 
 **Skills:** Web data extraction, unpivoting, string parsing, data validation.
+
 &nbsp;
 
 **C) Excel Files Consolidation**  (_Sheet Name - Projects Consolidation_)
@@ -79,9 +81,11 @@ Each sheet within this workbook represents a standalone project demonstrating a 
 &nbsp;
 
 **Outcome:** An automated consolidated project database that refreshes on new file addition.
+
 &nbsp;
 
 **Automation for New files**
+
 &nbsp;
 
 **_Initial files:_**
@@ -105,6 +109,7 @@ Each sheet within this workbook represents a standalone project demonstrating a 
 &nbsp;
 
 **Skills:** Folder automation, dynamic ETL, custom column formulas, refresh testing.
+
 &nbsp;
 
 **D) Students & Courses (Append and Merge)**  (_Sheet Name - Female Students_)
@@ -123,6 +128,7 @@ Each sheet within this workbook represents a standalone project demonstrating a 
 **Outcome:** Unified student-course dataset ready for analytics and academic reporting.
 
 **Skills:** Append queries, merge queries, relational data integration.
+
 &nbsp;
 
 **E) Filtering Female Students on ≥3 Courses** (_Sheet Name - Female Students_)
@@ -137,7 +143,6 @@ Each sheet within this workbook represents a standalone project demonstrating a 
 &nbsp;
 
 <img width="1920" height="1080" alt="5  FemaleStudents_Filter" src="https://github.com/user-attachments/assets/f9757edb-beb9-4168-bab4-1096832d7056" />
-
 &nbsp;
 
 **Outcome:** A filtered, query-based insight table highlighting targeted academic groups.
