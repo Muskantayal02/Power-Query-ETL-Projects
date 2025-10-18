@@ -141,10 +141,10 @@ PowerQuery_Project/
 │   ├── students and courses.xlsx
 │   ├── Consolidation_Files/
 │   │   ├── Project-alpha.xlsx
-│   │   ├── Project-Beta.xlsx
+│   │   ├── Project-beta.xlsx
 │   │   ├── Project-something.xlsx
 │   │   ├── Project-something-else.xlsx
-│   │   └── Project-New.xlsx
+│   │   └── Project-new.xlsx
 │
 ├── Screenshots/
 │   ├── EmployeeData_AppliedSteps.png
