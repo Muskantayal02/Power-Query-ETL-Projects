@@ -22,7 +22,7 @@ Each sheet within this workbook represents a standalone project demonstrating a 
 
 **PROJECT SUMMARIES**
 
-**A) Employee Data Cleanup:**
+**A) Employee Data Cleanup:** (_Sheet Name_ - Employee Data Cleaning)
 
 **Goal:** Clean and prepare HR dataset for reporting.
 
