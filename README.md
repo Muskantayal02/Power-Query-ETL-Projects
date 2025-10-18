@@ -1,11 +1,15 @@
 **PROJECT OVERVIEW:**
 
-This repository showcases multiple **ETL (Extract, Transform, Load)** projects built using **Power Query**. Each project demonstrates how real-world data challenges - from messy Excel sheets to combining datasets across files - can be solved through systematic data cleaning, transformation, and automation techniques.
+This repository showcases multiple **ETL (Extract, Transform, Load)** projects demonstrating my end-to-end capability in data transformation, validation, and automation using **Microsoft Power Query**.
+
+Each project demonstrates how real-world data challenges - from messy Excel sheets to combining datasets across files - can be solved through systematic data cleaning, transformation, and automation techniques.
+
+These highlight, different Power Query capabilities - from basic cleaning to advanced joins, appends, and dynamic folder consolidation. It includes multiple data cleaning and reporting scenarios showing how to extract, transform, and load data efficiently for analysis and reporting.
 
 All project outputs are consolidated in one Excel workbook:
 **`PowerQuery_ETL_Projects.xlsx`**
 
-Each sheet within this workbook represents a standalone project demonstrating a specific Power Query functionality.
+Every sheet in the compiled workbook represents a standalone case study designed to highlight a specific Power Query capability such as data cleaning, merging, appending, and dynamic folder automation.
 
 **SKILLS DEMONSTRATED**
 - Power Query ETL (Extract, Transform, Load)
@@ -183,8 +187,10 @@ Each sheet within this workbook represents a standalone project demonstrating a 
 
 **OUTCOME**
 
-- This project demonstrates real-world data handling proficiency using Power Query - from cleaning and merging messy datasets to automating reporting pipelines.
-- It reflects hands-on ability to transform raw data into structured, analysis-ready outputs efficiently.
+- This project demonstrates hands-on data preparation proficiency using Power Query — efficiently cleaning, merging, and automating data pipelines.
+- It reflects analytical and technical ability to transform raw, unstructured data into structured, decision-ready outputs for analysis and reporting.
+
+
 &nbsp;
 
 **FUTURE ENHANCEMENTS**
@@ -194,6 +200,14 @@ Each sheet within this workbook represents a standalone project demonstrating a 
 * Add error-handling and dynamic parameterization for folders and URLs.
 &nbsp;
 
+**How to Use**
+
+- Clone or download this repository.
+- Open PowerQuery_ETL_Projects.xlsx in Excel (ensure Power Query is enabled).
+- Go to Data → Queries & Connections → Refresh All to reload transformations.
+- Open Power Query Editor to explore applied steps for each sheet.
+  &nbsp;
+  
 **REPOSITORY STRUCTURE**
 ```
 PowerQuery_Project/
