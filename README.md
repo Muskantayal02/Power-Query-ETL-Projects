@@ -7,30 +7,6 @@ All project outputs are consolidated in one Excel workbook:
 
 Each sheet within this workbook represents a standalone project demonstrating a specific Power Query functionality.
 
-**REPOSITORY STRUCTURE**
-```
-PowerQuery_Project/
-│
-├── PowerQuery_ETL_Projects.xlsx         # Consolidated workbook with all project outputs
-│
-├── Raw_Files/
-│   ├── Employee_Data_Raw.xlsx
-│   ├── Students_and_Courses.xlsx
-│   ├── Consolidation_Files/
-│   │   ├── Project_Alpha.xlsx
-│   │   ├── Project_Beta.xlsx
-│   │   ├── Project_Gamma.xlsx
-│   │   └── Project_New.xlsx
-│
-├── Screenshots/
-│   ├── EmployeeData_AppliedSteps.png
-│   ├── WebScraping_Unpivot.png
-│   ├── FolderConsolidation_Transform.png
-│   ├── StudentCourse_Append_Merge.png
-│   └── FemaleStudents_Filter.png
-│
-└── README.md
-```
 **SKILLS DEMONSTRATED**
 - Power Query ETL (Extract, Transform, Load)
 - Data Cleaning, Transformation & Structuring
@@ -118,7 +94,7 @@ PowerQuery_Project/
 
 **DELIVERABLES**
 
-* **Excel Workbook:** `PowerQuery_ETL_Projects.xlsx` (contains all project sheets)
+* **Excel Workbook:** `PowerQuery_ETL_Projects.xlsx` (contains all project sheets) 
 * **Raw Files Folder:** Source files for reproducibility
 * **Screenshots Folder:** Key snapshots showing Power Query Applied Steps and final outputs
 
@@ -135,7 +111,6 @@ PowerQuery_Project/
 | Tool                               | Purpose                                         |
 | ---------------------------------- | ----------------------------------------------- |
 | **Microsoft Excel (Power Query)**  | Data extraction, transformation, and automation |
-| **Power BI (optional for future)** | Visualization-ready data modeling               |
 | **GitHub**                         | Documentation and version control               |
 
 **OUTCOME**
@@ -149,4 +124,27 @@ PowerQuery_Project/
 * Integrate data refresh automation with OneDrive or Power Automate.
 * Add error-handling and dynamic parameterization for folders and URLs.
 
-
+**REPOSITORY STRUCTURE**
+```
+PowerQuery_Project/
+│
+├── PowerQuery_ETL_Projects.xlsx         # Consolidated workbook with all project outputs
+│
+├── Raw_Files/
+│   ├── Employee_Data_Raw.xlsx
+│   ├── Students_and_Courses.xlsx
+│   ├── Consolidation_Files/
+│   │   ├── Project_Alpha.xlsx
+│   │   ├── Project_Beta.xlsx
+│   │   ├── Project_Gamma.xlsx
+│   │   └── Project_New.xlsx
+│
+├── Screenshots/
+│   ├── EmployeeData_AppliedSteps.png
+│   ├── WebScraping_Unpivot.png
+│   ├── FolderConsolidation_Transform.png
+│   ├── StudentCourse_Append_Merge.png
+│   └── FemaleStudents_Filter.png
+│
+└── README.md
+```
