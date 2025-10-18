@@ -60,7 +60,7 @@ Each sheet within this workbook represents a standalone project demonstrating a 
 
 **Outcome:** A long-format dataset for population trends by state and year.
 
-**Skills:** Web data extraction, unpivoting, string parsing, data validation.
+**Skills:** Web data extraction, Web connector, unpivoting, string parsing, data validation.
 
 &nbsp;
 
@@ -125,7 +125,7 @@ Each sheet within this workbook represents a standalone project demonstrating a 
 
 **Outcome:** Unified student-course dataset ready for analytics and academic reporting.
 
-**Skills:** Append queries, merge queries, relational data integration.
+**Skills:** Append queries, merge queries, relational data integration, reference queries, connection only.
 
 &nbsp;
 
