@@ -183,6 +183,10 @@ Every sheet in the compiled workbook represents a standalone case study designed
 | **Data Analysis** | Pivot Tables, Aggregation, Filtering |
 | **Documentation** | Excel Comments, Step Annotations |
 | **Conceptual Understanding** | SQL Joins (theory), Data Integrity Checks |
+| **Data Sources** | Excel files, Web HTML tables |
+| **Output** | Clean Excel datasets and summary pivot reports |
+
+
 &nbsp;
 
 **OUTCOME**
