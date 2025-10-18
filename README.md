@@ -1,3 +1,5 @@
+_Designed and documented by [Muskan Tayal](https://www.linkedin.com/in/muskan-tayal-820145225)_
+
 **PROJECT OVERVIEW:**
 
 This repository showcases multiple **ETL (Extract, Transform, Load)** projects built using **Power Query**. Each project demonstrates how real-world data challenges - from messy Excel sheets to combining datasets across files - can be solved through systematic data cleaning, transformation, and automation techniques.
