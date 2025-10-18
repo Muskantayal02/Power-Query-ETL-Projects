@@ -85,11 +85,9 @@ Each sheet within this workbook represents a standalone project demonstrating a 
 &nbsp;
 
 **Automation for New files**
-
 &nbsp;
 
 **_Initial files:_**
-
 &nbsp;
 
 <img width="1920" height="1080" alt="Screenshot (602)" src="https://github.com/user-attachments/assets/5c033584-8dc3-4c99-b506-cc3d96d53c80" />
