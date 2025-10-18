@@ -33,7 +33,7 @@ Each sheet within this workbook represents a standalone project demonstrating a 
 * Standardized departments and filtered out ex-employees
 * Transformed data types (date, currency, text)
 
-![Applied Steps – Employee Data](1.EmployeeData_AppliedSteps.png)
+<img width="1920" height="1080" alt="1  EmployeeData_AppliedSteps" src="https://github.com/user-attachments/assets/68da0984-e921-459b-8093-69b8e6719509" />
 
 **Outcome:** A clean employee dataset ready for payroll and demographic reporting.
 
@@ -51,6 +51,8 @@ Each sheet within this workbook represents a standalone project demonstrating a 
 * Extracted year numbers from text and cleaned population column
 * Removed null/error rows and standardized column types
 
+<img width="1920" height="1080" alt="2  WebScraping_Unpivot" src="https://github.com/user-attachments/assets/d477b82f-30d8-46fd-b5df-9dcbd1aeec02" />
+
 **Outcome:** A long-format dataset for population trends by state and year.
 
 **Skills:** Web data extraction, unpivoting, string parsing, data validation.
@@ -67,7 +69,18 @@ Each sheet within this workbook represents a standalone project demonstrating a 
 * Filtered to include only Excel files, changed types, and loaded final dataset
 * Tested automation by adding a new file and refreshing queries successfully
 
+  <img width="1920" height="1080" alt="3  FolderConsolidation_Transform" src="https://github.com/user-attachments/assets/684082bc-cfe3-4d59-b488-1598bc8111e3" />
+
 **Outcome:** An automated consolidated project database that refreshes on new file addition.
+
+Initial files:
+<img width="1920" height="1080" alt="Screenshot (602)" src="https://github.com/user-attachments/assets/5c033584-8dc3-4c99-b506-cc3d96d53c80" />
+
+New File added:
+<img width="1920" height="1080" alt="Screenshot (603)" src="https://github.com/user-attachments/assets/ce741c75-917e-4da0-9d2c-f8426d8b5b2e" />
+
+Refreshed Output:
+<img width="1920" height="1080" alt="Screenshot (606)" src="https://github.com/user-attachments/assets/473ea624-e48b-4224-9702-b35cc6e162db" />
 
 **Skills:** Folder automation, dynamic ETL, custom column formulas, refresh testing.
 
@@ -80,6 +93,8 @@ Each sheet within this workbook represents a standalone project demonstrating a 
 * Imported Class 11 and 12 sheets and added custom “Year” columns
 * Appended both tables to create a single student dataset
 * Merged the combined dataset with the Course table (teacher, credits, assessment type)
+
+<img width="1920" height="1080" alt="4  StudentCourse_Append_Merge" src="https://github.com/user-attachments/assets/c9c413fd-18de-4878-928b-b6e260318249" />
 
 **Outcome:** Unified student-course dataset ready for analytics and academic reporting.
 
@@ -95,6 +110,9 @@ Each sheet within this workbook represents a standalone project demonstrating a 
 * Filtered Gender = Female
 * Applied filter for Credits ≥ 3
 * Customized load behavior (set support tables as connection-only)
+
+<img width="1920" height="1080" alt="5  FemaleStudents_Filter" src="https://github.com/user-attachments/assets/f9757edb-beb9-4168-bab4-1096832d7056" />
+
 
 **Outcome:** A filtered, query-based insight table highlighting targeted academic groups.
 
