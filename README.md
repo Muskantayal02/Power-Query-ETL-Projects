@@ -1,5 +1,3 @@
-_Designed and documented by [Muskan Tayal](https://www.linkedin.com/in/muskan-tayal-820145225)_
-
 **PROJECT OVERVIEW:**
 
 This repository showcases multiple **ETL (Extract, Transform, Load)** projects built using **Power Query**. Each project demonstrates how real-world data challenges - from messy Excel sheets to combining datasets across files - can be solved through systematic data cleaning, transformation, and automation techniques.
@@ -33,7 +31,9 @@ Each sheet within this workbook represents a standalone project demonstrating a 
 * Standardized departments and filtered out ex-employees
 * Transformed data types (date, currency, text)
 
+
 <img width="1920" height="1080" alt="1  EmployeeData_AppliedSteps" src="https://github.com/user-attachments/assets/68da0984-e921-459b-8093-69b8e6719509" />
+
 
 **Outcome:** A clean employee dataset ready for payroll and demographic reporting.
 
@@ -53,6 +53,7 @@ Each sheet within this workbook represents a standalone project demonstrating a 
 
 <img width="1920" height="1080" alt="2  WebScraping_Unpivot" src="https://github.com/user-attachments/assets/d477b82f-30d8-46fd-b5df-9dcbd1aeec02" />
 
+
 **Outcome:** A long-format dataset for population trends by state and year.
 
 **Skills:** Web data extraction, unpivoting, string parsing, data validation.
@@ -69,18 +70,24 @@ Each sheet within this workbook represents a standalone project demonstrating a 
 * Filtered to include only Excel files, changed types, and loaded final dataset
 * Tested automation by adding a new file and refreshing queries successfully
 
-  <img width="1920" height="1080" alt="3  FolderConsolidation_Transform" src="https://github.com/user-attachments/assets/684082bc-cfe3-4d59-b488-1598bc8111e3" />
+ <img width="1920" height="1080" alt="3  FolderConsolidation_Transform" src="https://github.com/user-attachments/assets/684082bc-cfe3-4d59-b488-1598bc8111e3" />
+
 
 **Outcome:** An automated consolidated project database that refreshes on new file addition.
 
-Initial files:
+**Automation for New files**
+_Initial files:_
+
 <img width="1920" height="1080" alt="Screenshot (602)" src="https://github.com/user-attachments/assets/5c033584-8dc3-4c99-b506-cc3d96d53c80" />
 
-New File added:
+_New File added:_
+
 <img width="1920" height="1080" alt="Screenshot (603)" src="https://github.com/user-attachments/assets/ce741c75-917e-4da0-9d2c-f8426d8b5b2e" />
 
-Refreshed Output:
+_Refreshed Output:_
+
 <img width="1920" height="1080" alt="Screenshot (606)" src="https://github.com/user-attachments/assets/473ea624-e48b-4224-9702-b35cc6e162db" />
+
 
 **Skills:** Folder automation, dynamic ETL, custom column formulas, refresh testing.
 
@@ -95,6 +102,7 @@ Refreshed Output:
 * Merged the combined dataset with the Course table (teacher, credits, assessment type)
 
 <img width="1920" height="1080" alt="4  StudentCourse_Append_Merge" src="https://github.com/user-attachments/assets/c9c413fd-18de-4878-928b-b6e260318249" />
+
 
 **Outcome:** Unified student-course dataset ready for analytics and academic reporting.
 
@@ -120,9 +128,8 @@ Refreshed Output:
 
 **DELIVERABLES**
 
-* **Excel Workbook:** `PowerQuery_ETL_Projects.xlsx` (contains all project sheets) 
-* **Raw Files Folder:** Source files for reproducibility
-* **Screenshots Folder:** Key snapshots showing Power Query Applied Steps and final outputs
+- **Excel Workbook:** `PowerQuery_ETL_Projects.xlsx` (contains all project sheets)
+- **Transformation Screenshots:** Embedded in README below each project section.
 
 **KEY HIGHLIGHTS**
 
@@ -137,7 +144,7 @@ Refreshed Output:
 | Tool                               | Purpose                                         |
 | ---------------------------------- | ----------------------------------------------- |
 | **Microsoft Excel (Power Query)**  | Data extraction, transformation, and automation |
-| **GitHub**                         | Documentation and version control               |
+
 
 **OUTCOME**
 
@@ -154,12 +161,12 @@ Refreshed Output:
 ```
 PowerQuery_Project/
 │
-├── PowerQuery_ETL_Projects.xlsx         Final Consolidated workbook with all project outputs
+├── PowerQuery_ETL_Projects.xlsx      ➜    Final Consolidated workbook with all project outputs
 │
 ├── Raw_Files/
-│   ├── M01.xlsx Employee_Data_Raw
-│   ├── students and courses.xlsx
-│   ├── Consolidation_Files/
+│   ├── M01.xlsx                      ➜ Employee Data Raw
+│   ├── students and courses.xlsx     ➜ Student and Course Data Raw
+│   ├── Consolidation_Files/          ➜ Projects for Consolidation Raw
 │   │   ├── Project-alpha.xlsx
 │   │   ├── Project-beta.xlsx
 │   │   ├── Project-something.xlsx
@@ -175,3 +182,5 @@ PowerQuery_Project/
 │
 └── README.md
 ```
+
+_Designed and documented by [Muskan Tayal](https://www.linkedin.com/in/muskan-tayal-820145225)_
