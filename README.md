@@ -26,18 +26,17 @@ Each sheet within this workbook represents a standalone project demonstrating a 
 **Goal:** Clean and prepare HR dataset for reporting.
 
 **Steps:**
-* Removed blank rows and unnecessary columns
-* Promoted headers and replaced null values
-* Extracted country names from location column using “Column from Examples”
-* Standardized departments and filtered out ex-employees
-* Transformed data types (date, currency, text)
-
+* Removed extra rows/columns, promoted headers, and handled nulls.
+* Replaced missing gender and department values with defaults.
+* Extracted country from location column using “Column from Examples”.
+* Standardized departments and filtered out ex-employee
+* Converted data types for salary (currency) and date.
 
 <img width="1920" height="1080" alt="1  EmployeeData_AppliedSteps" src="https://github.com/user-attachments/assets/68da0984-e921-459b-8093-69b8e6719509" />
 
 &nbsp;
 
-**Outcome:** A clean employee dataset ready for payroll and demographic reporting.
+**Outcome:** Cleaned employee dataset ready for dashboard/reporting.
 
 **Skills:** Data cleaning, type transformation, text extraction.
 
@@ -48,11 +47,12 @@ Each sheet within this workbook represents a standalone project demonstrating a 
 **Goal:** Transform a messy web dataset into a structured table.
 
 **Steps:**
-* Imported HTML table directly from a government site
-* Removed extra rows and columns, promoted headers
-* Unpivoted year columns to normalize the data
-* Extracted year numbers from text and cleaned population column
-* Removed null/error rows and standardized column types
+Connected to HTML table via Get Data → From Web.
+Removed unnecessary rows and columns, promoted headers
+Unpivoted year columns to normalize the data and reshape into tidy format.
+Extracted year values using Text Between Delimiters.
+Cleaned NA values, removed errors, and ensured standardized column types
+
 &nbsp;
 
 <img width="1920" height="1080" alt="2  WebScraping_Unpivot" src="https://github.com/user-attachments/assets/d477b82f-30d8-46fd-b5df-9dcbd1aeec02" />
@@ -69,12 +69,12 @@ Each sheet within this workbook represents a standalone project demonstrating a 
 **Goal:** Combine monthly project data from multiple Excel files into one master table.
 
 **Steps:**
-* Imported all `.xlsx` files from a folder using *From Folder* connector
-* Transformed sample file, standardized project names (removed `.xlsx`)
+* Connected to folder path and combined data using Combine & Transform.
+* Transformed sample file, standardized project names (project-alpha.xlsx → project-alpha).
 * Added a custom column to convert month numbers into date values using a formula =#date(2025, [Month],1)
-* Filtered to include only Excel files, changed types, and loaded final dataset
+* Filtered only .xlsx extensions files, changed types, and loaded final dataset
 * Tested automation by adding a new file and refreshing queries successfully
-  
+
 &nbsp;
 
  <img width="1920" height="1080" alt="3  FolderConsolidation_Transform" src="https://github.com/user-attachments/assets/684082bc-cfe3-4d59-b488-1598bc8111e3" />
@@ -115,9 +115,11 @@ Each sheet within this workbook represents a standalone project demonstrating a 
 **Goal:** Combine data from multiple classes and enrich it with course-level details.
 
 **Steps:**
-* Imported Class 11 and 12 sheets and added custom “Year” columns
+* Imported Year 11 and Year 12 student data, and added custom “Year” columns
 * Appended both tables to create a single student dataset
-* Merged the combined dataset with the Course table (teacher, credits, assessment type) using Left outer Join.
+* Merged with Course table (teacher, credits, assessment type) on Course field using Left Outer Join.
+* Expanded course details (teacher, credits, assessment type).
+
   &nbsp;
 <img width="1920" height="1080" alt="4  StudentCourse_Append_Merge" src="https://github.com/user-attachments/assets/c9c413fd-18de-4878-928b-b6e260318249" />
 
