@@ -11,16 +11,20 @@ All project outputs are consolidated in one Excel workbook:
 
 Every sheet in the compiled workbook represents a standalone case study designed to highlight a specific Power Query capability such as data cleaning, merging, appending, and dynamic folder automation.
 
-**SKILLS DEMONSTRATED**
-- Power Query ETL (Extract, Transform, Load)
+**SKILLS DEMONSTRATED**  
+- Power Query ETL Process (Extract, Transform, Load)
 - Data Cleaning, Transformation & Structuring
-- Data Appending, Merging & Filtering
-- Working with Multiple Excel Files
-- Web Scraping and Unpivoting
-- Advanced Data Preparation for Reporting
+- Data Validation and Error Handling
+- Query Referencing & Load Optimization
+- Merging, Appending, Filtering and Reshaping Data
+- Dynamic Folder Automation
+- Web Scraping
+- Unpivot & Pivot Transformations
+- Custom Columns & Conditional Logic
+- Connection Management and Query Grouping
 - Automation using Connection-Only Queries
-- Data Validation and Type Handling
-- Business-Ready Data Modeling
+- Business-Reay Data Modeling
+- Applied Steps Documentation
 &nbsp;
 
 **PROJECT SUMMARIES**
